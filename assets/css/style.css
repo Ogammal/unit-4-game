@@ -1,0 +1,12 @@
+body {
+    background-image: url("../images/background.jpg");
+    color: white;
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+.total-head {
+    font-weight: bold;
+    font-size: 20px;
+}
